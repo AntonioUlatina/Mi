@@ -84,6 +84,16 @@ public class MainActivity extends AppCompatActivity {
             }
         });
 
+        placeBtn.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                Intent intent = new Intent(MainActivity.this, PlacesList.class);
+                Bundle bundle = new Bundle();
+                intent.putExtras(bundle);
+                startActivity(intent);
+            }
+        });
+
 
 //        placeDetailBtn.setOnClickListener(new View.OnClickListener() {
 //            @Override

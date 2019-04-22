@@ -1,0 +1,43 @@
+<resources>
+    <string name="SERVER_URL">https://ticoplaces.herokuapp.com/api/v1</string>
+    <string name="app_name">Ticoplaces</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="normal_map">normal</string>
+    <string name="hybrid_map">hibrido</string>
+    <string name="satellite_map">satelite</string>
+    <string name="terrain_map">terreno</string>
+    <string name="dropped_pin">Pin</string>
+    <string name="price">Price</string>
+    <string name="quality">Quality</string>
+    <string name="service">Service</string>
+    <string name="submit">Submit</string>
+    <string name="rating">Rating</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="log_in">Log in</string>
+    <string name="forgot_password">Forgot password</string>
+    <string name="remember_me">Remember me</string>
+    <string name="password">Password</string>
+    <string name="email">Email</string>
+    <string name="nombre">Nombre</string>
+    <string name="name">Name</string>
+    <string name="date_of_birth_dd_mm_yyyy">Date of birth (dd/mm/yyyy)</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="cancel">Cancel</string>
+    <string name="review">Review</string>
+    <string-array name="names">
+        <item>Genero...</item>
+        <item>Masculino</item>
+        <item>Femenino</item>
+        <item>Otro</item>
+    </string-array>
+    <string name="title_activity_category">Category</string>
+    <string name="activity">Activity</string>
+    <string name="restaurant">Restaurant</string>
+    <string name="lodging">Lodging</string>
+    <string name="Place_Detail">Place Detail</string>
+    <string name="title_activity_list_of_places">listOfPlaces</string>
+    <string name="place_by_name">PlacesByName</string>
+    <string name="titlePlace">titlePlace</string>
+    <string name="imagePlace">imagePlace</string>
+    <string name="places">Places</string>
+</resources>
